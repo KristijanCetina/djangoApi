@@ -24,5 +24,5 @@ run project
 
 ```bash
 cd cromm/
-py manage.py runserver
+python3 manage.py runserver
 ```
